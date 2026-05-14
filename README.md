@@ -1,11 +1,17 @@
 # Paid Review Access
 
-Selected structural expertise assets, SME resource ontologies and bounded conceptual frameworks may be made available for limited internal review on request.
+Selected paid structural review mandates may be considered after qualified inquiry.
 
-This access is intended for organizations, advisors or professional reviewers who want to assess whether a specific ontology, expertise structure or resource-mapping framework is relevant to their own context.
+No anonymous access. No public catalogue of queryable topics. No general research on demand.
 
-Review access does not grant unrestricted use, redistribution, reconstruction rights or transfer of underlying methodology. Deeper access, licensing, exclusivity, adaptation rights or handover terms require a separate agreement.
+Each inquiry is individually screened, logged and scoped. The identity of the requester, institutional context, intended use and billing details must be disclosed before any substantive work is considered.
 
-Paid review access can be arranged individually. Payment via Stripe link is possible after scope clarification.
+This protects both sides: the requester receives an individually bounded review process, and other clients' materials, mandates and structural contexts remain separate.
 
-For review access inquiries, please contact: brueckner@bw-ruah.de
+Work starts only after acceptance, agreed scope and payment arrangement. Billing may be handled by invoice and/or Stripe payment link.
+
+Payment does not create a right to unrestricted access, general availability or disclosure of internal methods. Any accepted work is limited to the agreed scope and intended use.
+
+Internal methods, ontology construction logic, prompt chains, routing structures, pricing logic, licensing logic and reusable structural IP are not disclosed.
+
+Do not send confidential material before acceptance.
