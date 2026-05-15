@@ -15,3 +15,9 @@ Payment does not create a right to unrestricted access, general availability or 
 Internal methods, ontology construction logic, prompt chains, routing structures, pricing logic, licensing logic and reusable structural IP are not disclosed.
 
 Do not send confidential material before acceptance.
+
+## Current Review Assets
+
+- **Compute Infrastructure as Public Relief Infrastructure**  
+  Limited written review access:  
+  https://review-portal.calmocean-9ede2aba.germanywestcentral.azurecontainerapps.io/
