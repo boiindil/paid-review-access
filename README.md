@@ -26,3 +26,7 @@ Do not send confidential material before acceptance.
   Limited written review access for structured Codex build mandates, ontology construction and compact review-oriented system preparation.  
   Buyer-managed execution and bounded review scope only.  
   https://ca-codex-order-showcase.salmoncliff-ec2113dd.germanywestcentral.azurecontainerapps.io
+
+- Kommunaler Struktur-, Review- und Handover-Körper
+  Schriftliche, auditierbare Strukturartefakte für kommunale, regionale und organisationsübergreifende Koordinations-, Governance- und Entwicklungsprozesse.
+  https://municipal-review-showcase.nicecoast-5a6a315d.germanywestcentral.azurecontainerapps.io
