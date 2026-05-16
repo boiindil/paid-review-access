@@ -29,4 +29,5 @@ Do not send confidential material before acceptance.
 
 - Kommunaler Struktur-, Review- und Handover-Körper
   Schriftliche, auditierbare Strukturartefakte für kommunale, regionale und organisationsübergreifende Koordinations-, Governance- und Entwicklungsprozesse.
+  
   https://municipal-review-showcase.nicecoast-5a6a315d.germanywestcentral.azurecontainerapps.io
