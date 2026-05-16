@@ -21,3 +21,8 @@ Do not send confidential material before acceptance.
 - **Compute Infrastructure as Public Relief Infrastructure**  
   Limited written review access:  
   https://review-portal.calmocean-9ede2aba.germanywestcentral.azurecontainerapps.io/
+
+  - Structured Codex Build Orders  
+  Limited written review access for structured Codex build mandates, ontology construction and compact review-oriented system preparation.  
+  Buyer-managed execution and bounded review scope only.  
+  https://ca-codex-order-showcase.salmoncliff-ec2113dd.germanywestcentral.azurecontainerapps.io
