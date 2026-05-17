@@ -22,36 +22,36 @@ Do not send confidential material before acceptance.
   Limited written review access:  
   https://review-portal.calmocean-9ede2aba.germanywestcentral.azurecontainerapps.io/
 
-- Structured Codex Build Orders  
+- **Structured Codex Build Orders**  
   Limited written review access for structured Codex build mandates, ontology construction and compact review-oriented system preparation.  
   Buyer-managed execution and bounded review scope only.  
   https://ca-codex-order-showcase.salmoncliff-ec2113dd.germanywestcentral.azurecontainerapps.io
 
-- Kommunaler Struktur-, Review- und Handover-Körper
+- **Kommunaler Struktur-, Review- und Handover-Körper**
   Schriftliche, auditierbare Strukturartefakte für kommunale, regionale und organisationsübergreifende Koordinations-, Governance- und Entwicklungsprozesse.
   
   https://municipal-review-showcase.nicecoast-5a6a315d.germanywestcentral.azurecontainerapps.io
 
-- Struktur-Blueprint für moderne Wirtschaftsbildung, institutionelle Lieferketten, Vertragsqualität und Zukunftsberufe.
+- **Struktur-Blueprint für moderne Wirtschaftsbildung, institutionelle Lieferketten, Vertragsqualität und Zukunftsberufe**
 
- Das Artefakt verbindet:
+  Das Artefakt verbindet:
 
-* digitales Fachbuch
-* maschinenlesbare Codex-Spezifikation
-* prüffähige Struktur-IP
-* buyer-managed Umsetzungslogik
-* lokale/offline Lernsystem-Architektur
+  * digitales Fachbuch
+  * maschinenlesbare Codex-Spezifikation
+  * prüffähige Struktur-IP
+  * buyer-managed Umsetzungslogik
+  * lokale/offline Lernsystem-Architektur
 
- Die öffentliche Seite enthält:
+  Die öffentliche Seite enthält:
 
-* strukturierte Vorschau
-* Lizenzmodell
-* Claims Boundary
-* institutionelle Nutzungslogik
-* geschützte Downloadbereitstellung
+  * strukturierte Vorschau
+  * Lizenzmodell
+  * Claims Boundary
+  * institutionelle Nutzungslogik
+  * geschützte Downloadbereitstellung
 
- Kein SaaS.
- Kein Abo.
- Keine Cloudpflicht.
+   Kein SaaS.
+   Kein Abo.
+   Keine Cloudpflicht.
 
-https://bw-ruah.de/downloads/assets/zukunftsberufe-blueprint.html
+   https://bw-ruah.de/downloads/assets/zukunftsberufe-blueprint.html
