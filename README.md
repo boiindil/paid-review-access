@@ -31,3 +31,26 @@ Do not send confidential material before acceptance.
   Schriftliche, auditierbare Strukturartefakte für kommunale, regionale und organisationsübergreifende Koordinations-, Governance- und Entwicklungsprozesse.
   
   https://municipal-review-showcase.nicecoast-5a6a315d.germanywestcentral.azurecontainerapps.io
+
+- Struktur-Blueprint für moderne Wirtschaftsbildung, institutionelle Lieferketten, Vertragsqualität und Zukunftsberufe.
+
+Das Artefakt verbindet:
+
+* digitales Fachbuch
+* maschinenlesbare Codex-Spezifikation
+* prüffähige Struktur-IP
+* buyer-managed Umsetzungslogik
+* lokale/offline Lernsystem-Architektur
+
+Die öffentliche Seite enthält:
+
+* strukturierte Vorschau
+* Lizenzmodell
+* Claims Boundary
+* institutionelle Nutzungslogik
+* geschützte Downloadbereitstellung
+
+Kein SaaS.
+Kein Abo.
+Keine Cloudpflicht.
+https://bw-ruah.de/downloads/assets/zukunftsberufe-blueprint.html
