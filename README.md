@@ -34,7 +34,7 @@ Do not send confidential material before acceptance.
 
 - Struktur-Blueprint für moderne Wirtschaftsbildung, institutionelle Lieferketten, Vertragsqualität und Zukunftsberufe.
 
-Das Artefakt verbindet:
+ Das Artefakt verbindet:
 
 * digitales Fachbuch
 * maschinenlesbare Codex-Spezifikation
@@ -42,7 +42,7 @@ Das Artefakt verbindet:
 * buyer-managed Umsetzungslogik
 * lokale/offline Lernsystem-Architektur
 
-Die öffentliche Seite enthält:
+ Die öffentliche Seite enthält:
 
 * strukturierte Vorschau
 * Lizenzmodell
@@ -50,8 +50,8 @@ Die öffentliche Seite enthält:
 * institutionelle Nutzungslogik
 * geschützte Downloadbereitstellung
 
-Kein SaaS.
-Kein Abo.
-Keine Cloudpflicht.
+ Kein SaaS.
+ Kein Abo.
+ Keine Cloudpflicht.
 
 https://bw-ruah.de/downloads/assets/zukunftsberufe-blueprint.html
