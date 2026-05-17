@@ -53,4 +53,5 @@ Die öffentliche Seite enthält:
 Kein SaaS.
 Kein Abo.
 Keine Cloudpflicht.
+
 https://bw-ruah.de/downloads/assets/zukunftsberufe-blueprint.html
