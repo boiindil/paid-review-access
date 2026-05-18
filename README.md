@@ -55,7 +55,7 @@ Do not send confidential material before acceptance.
 
    https://bw-ruah.de/downloads/assets/zukunftsberufe-blueprint.html
 
-  - **PDF-Expertise für LAG-, LEADER-, Kommunal- und Regionalentwicklungs-Kontexte**
+ - **PDF-Expertise für LAG-, LEADER-, Kommunal- und Regionalentwicklungs-Kontexte**
 
    Strukturierte PDF-Expertise zur Vorbereitung konfigurierbarer Arbeits-, Rollen-, Freigabe-, Dokumentations- und Agentenstrukturen in regionalen      Mehrakteurskontexten. Geeignet für LAGs, LEADER-Regionen, Kommunen, Landkreise, Projektträgernetzwerke, Regionalmanagements und europäisch           anschlussfähige Kooperationsräume.
 
