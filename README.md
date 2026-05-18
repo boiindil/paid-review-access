@@ -66,3 +66,10 @@ Do not send confidential material before acceptance.
    Strukturierte Arbeitsgrundlage fuer Gruender:innen, kleine Teams und technische Akteure im Defense-/Dual-Use-Umfeld.
 
    https://bw-ruah.de/downloads/assets/defense-dualuse-founder-readiness.html
+   
+ - **Markdown-Instruktionspaket für Haushalts-, Familien- und Alltagskoordination**
+
+   Deutschsprachiges Markdown-Instruktionspaket zur Einrichtung eines eigenen GPT-/KI-Assistenten für Haushalts-, Familien- und Alltagskoordination.              Enthalten sind ein strukturierter Instruktionskern, Copy-Paste-Version, Nutzungshinweise, Lizenz-/Haftungshinweise, Verbesserungsmodus,                        Ausgabeformate für Tagesstruktur, Wochenboard, Haushaltslage, Delegation, Einkaufscluster sowie Dokumenten- und Fristenübersicht. Das Paket ist                deutschsprachig und multilingual nutzbar, sofern das verwendete KI-System dies unterstützt.
+
+   https://bw-ruah.de/downloads/assets/haushaltsstruktur-kern-01.html
+   
