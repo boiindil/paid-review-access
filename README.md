@@ -59,4 +59,4 @@ Do not send confidential material before acceptance.
 
    Strukturierte PDF-Expertise zur Vorbereitung konfigurierbarer Arbeits-, Rollen-, Freigabe-, Dokumentations- und Agentenstrukturen in regionalen      Mehrakteurskontexten. Geeignet für LAGs, LEADER-Regionen, Kommunen, Landkreise, Projektträgernetzwerke, Regionalmanagements und europäisch           anschlussfähige Kooperationsräume.
 
-  https://bw-ruah.de/downloads/assets/regional-workspace-governance-structures-pdf.html
+   https://bw-ruah.de/downloads/assets/regional-workspace-governance-structures-pdf.html
