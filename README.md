@@ -60,3 +60,9 @@ Do not send confidential material before acceptance.
    Strukturierte PDF-Expertise zur Vorbereitung konfigurierbarer Arbeits-, Rollen-, Freigabe-, Dokumentations- und Agentenstrukturen in regionalen      Mehrakteurskontexten. Geeignet für LAGs, LEADER-Regionen, Kommunen, Landkreise, Projektträgernetzwerke, Regionalmanagements und europäisch           anschlussfähige Kooperationsräume.
 
    https://bw-ruah.de/downloads/assets/regional-workspace-governance-structures-pdf.html
+   
+ - **Defense-/Dual-Use-Founder-Readiness Markdown Research & Prompt Framework**
+
+   Strukturierte Arbeitsgrundlage fuer Gruender:innen, kleine Teams und technische Akteure im Defense-/Dual-Use-Umfeld.
+
+   https://bw-ruah.de/downloads/assets/defense-dualuse-founder-readiness.html
