@@ -26,6 +26,10 @@ Hauptuebersicht: https://bw-ruah.de/downloads/
   Strukturierte Story-Ontologien fuer Kindergeschichten, Fabeln und ruhige Erzaehlrahmen; keine fertigen Geschichten.  
   Cardlink: https://bw-ruah.de/downloads/children-story-structures.html
 
+- **Council / Municipal Meeting Ontologies**  
+  Kompaktes Markdown/YAML/JSON-Review-Artefakt fuer Gemeinderaete, Ausschuesse und demokratische Sitzungsvorbereitung; Strukturhilfe, keine Rechtsberatung und keine automatisierte Entscheidung.  
+  Cardlink: https://bw-ruah.de/downloads/assets/council-meeting-ontologies.html
+
 - **Employee Structural Knowledge Residue Review Bundle v0.1.1**  
   Governance-Review-Artefakt fuer strukturelles Mitarbeiterwissen in Team-, Ticket-, Wissens- und Agentensystemen.  
   Cardlink: https://bw-ruah.de/downloads/assets/eskr-review-bundle.html
