@@ -56,11 +56,11 @@ Hauptuebersicht: https://bw-ruah.de/downloads/
 
 - **MCP**
    
- Controlled semantic access to structured ruahAI review spaces.
+  Controlled semantic access to structured ruahAI review spaces.
 
- MCP bezeichnet hier keinen oeffentlichen Chatbot und keine offene Datenbank, sondern einen kontrollierten semantischen Zugriffspunkt auf kuratierte  Struktur-, Governance-, Review- und Operatorraeume. Der Zugriff erfolgt ausschliesslich nach persoenlicher Anfrage, Zweckklaerung und schriftlicher  Freigabe.
+  MCP bezeichnet hier keinen oeffentlichen Chatbot und keine offene Datenbank, sondern einen kontrollierten semantischen Zugriffspunkt auf             kuratierte  Struktur-, Governance-, Review- und Operatorraeume. Der Zugriff erfolgt ausschliesslich nach persoenlicher Anfrage, Zweckklaerung und    schriftlicher  Freigabe.
 
- https://bw-ruah.de/downloads/mcp.html
+  https://bw-ruah.de/downloads/mcp.html
 
 ## Grenze
 
