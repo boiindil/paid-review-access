@@ -54,10 +54,6 @@ Hauptuebersicht: https://bw-ruah.de/downloads/
   Standardisierte kleine lokale Python-Arbeitsagenten fuer eng begrenzte Rechen-, Risiko-, Optimierungs-, Strukturierungs- und Vorpruefungsaufgaben.  
   Cardlink: https://bw-ruah.de/downloads/micro-agents.html
 
-## Grenze
-
-Die Angebote sind begrenzte Review-, Struktur-, Lern-, Instruktions- oder lokale Arbeitsartefakte. Sie ersetzen keine Rechts-, Steuer-, Finanz-, Medizin-, Verwaltungs- oder sonstige Fachberatung und bestaetigen keine Produktiv-, Compliance- oder Zertifizierungsreife.
-
 - **MCP**
    
  Controlled semantic access to structured ruahAI review spaces.
@@ -65,3 +61,9 @@ Die Angebote sind begrenzte Review-, Struktur-, Lern-, Instruktions- oder lokale
  MCP bezeichnet hier keinen oeffentlichen Chatbot und keine offene Datenbank, sondern einen kontrollierten semantischen Zugriffspunkt auf kuratierte  Struktur-, Governance-, Review- und Operatorraeume. Der Zugriff erfolgt ausschliesslich nach persoenlicher Anfrage, Zweckklaerung und schriftlicher  Freigabe.
 
  https://bw-ruah.de/downloads/mcp.html
+
+## Grenze
+
+Die Angebote sind begrenzte Review-, Struktur-, Lern-, Instruktions- oder lokale Arbeitsartefakte. Sie ersetzen keine Rechts-, Steuer-, Finanz-, Medizin-, Verwaltungs- oder sonstige Fachberatung und bestaetigen keine Produktiv-, Compliance- oder Zertifizierungsreife.
+
+
