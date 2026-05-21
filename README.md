@@ -1,8 +1,10 @@
-# Paid Review Access
+# ruahAI Access
 
 Knappe Uebersicht der oeffentlichen ruahAI-Angebotskarten auf der Homepage. Preise, individuelle Scopes und Zahlungslinks werden nicht in dieser README gefuehrt.
 
 Hauptuebersicht: https://bw-ruah.de/downloads/
+
+weiter: https://bw-ruah.de/downloads/mcp.html
 
 
 ## Grenze
